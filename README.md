@@ -1,5 +1,5 @@
 # Interviews Questions
-> A list of all the questions that you've to be prepared for to clear the technical interviews.
+> A list of all the questions that you've to be prepared to clear the technical interviews.
 
 [Top HTML Interview Qustions](https://www.interviewbit.com/html-interview-questions/)
 
