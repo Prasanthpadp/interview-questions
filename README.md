@@ -8,3 +8,5 @@
 [Hibernate Interview Qustions (2021)](https://www.interviewbit.com/hibernate-interview-questions/)
 
 [Top 30 C++ Interview Qustions (2021)](https://www.interviewbit.com/cpp-interview-questions/)
+
+[Freqyently Asked DevOps Interview Qustions (2021)](https://www.interviewbit.com/devops-interview-questions/)
