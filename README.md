@@ -12,3 +12,7 @@
 [Frequently Asked DevOps Interview Questions (2021)](https://www.interviewbit.com/devops-interview-questions/)
 
 [Top Spring Boot Interview Questions](https://www.interviewbit.com/spring-boot-interview-questions/)
+
+[Jenkins Interview Questions](https://www.interviewbit.com/jenkins-interview-questions/)
+
+[Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
