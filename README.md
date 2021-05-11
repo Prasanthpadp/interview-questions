@@ -16,3 +16,7 @@
 [Jenkins Interview Questions](https://www.interviewbit.com/jenkins-interview-questions/)
 
 [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
+
+[Azure Interview Questions](https://www.interviewbit.com/azure-interview-questions/)
+
+[Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
