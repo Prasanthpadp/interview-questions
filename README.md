@@ -20,3 +20,7 @@
 [Azure Interview Questions](https://www.interviewbit.com/azure-interview-questions/)
 
 [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
+
+[Android Interview Questions](https://www.interviewbit.com/android-interview-questions/)
+
+[HR Interview Questions](https://www.interviewbit.com/hr-interview-questions/)
