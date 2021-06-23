@@ -24,3 +24,7 @@
 [Android Interview Questions](https://www.interviewbit.com/android-interview-questions/)
 
 [HR Interview Questions](https://www.interviewbit.com/hr-interview-questions/)
+
+[Angular 8 Interview Questions](https://www.interviewbit.com/angular-8-interview-questions/)
+
+[Salesforce Interview Questions](https://www.interviewbit.com/salesforce-interview-questions/)
